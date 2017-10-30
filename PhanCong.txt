@@ -1,0 +1,3 @@
+Nguyễn Thu Hoàng: Phụ trách UC "Sửa thiết bị" và "Lọc danh sách thiết bị" và 1 phần SDD và tổng hợp file astah
+Phùng Thế Hoàng: Phụ trách UC "Thống kê vật tư tiêu thụ theo thời gian" và "Yêu cầu thiết bị" và SRS và 1 phần SDD
+Nguyễn Văn Hiếu và Nguyễn Thị Ngọc Hiếu: KHÔNG THAM GIA
